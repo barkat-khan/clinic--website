@@ -1,0 +1,159 @@
+@media (max-width:1199px) {
+    /* .card {
+        padding: 2.5rem 1.5rem;
+    } */
+
+    /* header */
+    .header_wraper ul li {
+        font-size: 1rem;
+    }
+
+    /* .banner-wrapper .card h4{
+        margin-left: -1rem;
+    } */
+
+    /* about section */
+    .about-wrapper .card {
+        width: 100%;
+    }
+
+    .services-wrapper .card {
+        padding: 1.5rem;
+    }
+
+}
+
+@media (max-width:991px) {
+    .wrapper {
+        padding: 3.125rem;
+    }
+
+    .main-btn {
+        font-size: .875rem;
+    }
+
+    h1 {
+        font-size: 2.815rem;
+        margin-bottom: .625rem;
+    }
+
+    h2 {
+        font-size: 1.875rem;
+    }
+
+    h3 {
+        font-size: 1.5625rem;
+    }
+
+    h4 {
+        font-size: 1.25rem;
+    }
+
+    h5 {
+        font-size: 1.125rem;
+    }
+
+    p {
+        font-size: .875rem;
+        line-height: 1.35rem;
+    }
+
+    /* .card {
+        padding: 1.875rem 1rem;
+    } */
+
+    /* banner section */
+    .banner-wrapper .animate-img .img1 {
+        left: -5.156rem;
+    }
+
+    .banner-wrapper .animate-img .img2 {
+        margin-left: 3rem;
+    }
+
+    .about-wrapper .about-animate {
+        left: 1.5rem;
+    }
+
+    .services-wrapper .card {
+        padding: 1rem;
+    }
+
+
+}
+
+@media (max-width: 767px) {
+    .card {
+        padding: 2.5rem 1.875rem;
+    }
+
+    .main-btn {
+        font-size: .875rem;
+    }
+
+    h1 {
+        font-size: 2.5rem;
+        margin-bottom: 2.5rem;
+    }
+
+    h5 {
+        font-size: 1.25rem;
+    }
+
+    /* banner section */
+    .banner-wrapper p {
+        max-width: 100%;
+    }
+
+    .banner-wrapper .animate-img {
+        margin-left: -11rem;
+    }
+
+}
+
+@media (max-width: 425px) {
+
+    /* banner section */
+    .banner-wrapper .animate-img .img1 {
+        height: 10rem;
+        bottom: 0rem;
+        left: -2rem;
+    }
+
+    .banner-wrapper .animate-img .img2 {
+        height: 10rem;
+        margin-left: 3rem;
+    }
+
+}
+
+@media (max-width: 375px) {
+    .card {
+        padding: 1rem;
+    }
+
+    .banner-wrapper .wrapper {
+        padding: 2rem;
+    }
+
+    .banner-wrapper .animate-img .img1 {
+        height: 8rem;
+    }
+
+    .banner-wrapper .animate-img .img2 {
+        height: 8rem;
+    }
+
+    .banner-wrapper .animate-img {
+        margin-left: -10rem;
+    }
+
+    .about-wrapper h2 {
+        margin-top: 4rem;
+    }
+
+    .about-wrapper .about-animate {
+        height: 16rem;
+    }
+
+}
